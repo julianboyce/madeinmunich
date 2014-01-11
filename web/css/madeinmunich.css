@@ -1,3 +1,8 @@
+body {
+    font-family: 'Gentium Basic', serif;
+    font-size: 18pt;
+}
+
 .header-logo img {
     display: inline;
 }
@@ -26,6 +31,14 @@ h1.logo {
 
 .made-basic-font {
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60pt;
+}
+
+.subheading-title {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 24pt;
 }
 
 .section {
@@ -41,8 +54,24 @@ h1.logo {
 }
 
 .badge-section {
-	background-color: #303030; 
+	background-color: #545454;
 	color: white;
+}
+
+.badge-section, .team-section .heading {
+    text-transform: uppercase;
+}
+
+.badge-special-2 {
+    text-align: center;
+}
+
+.badge-special-1 {
+    width: 200pt
+}
+
+.badge-row-space {
+    margin-bottom: 40px;
 }
 
 .company-section {
