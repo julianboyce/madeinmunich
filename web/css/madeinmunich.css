@@ -1,3 +1,8 @@
+body {
+    font-family: 'Gentium Basic', serif;
+    font-size: 18pt;
+}
+
 .header-logo img {
     display: inline;
 }
@@ -26,8 +31,15 @@ h1.logo {
 
 .made-basic-font {
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60pt;
 }
 
+.subheading-title {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 24pt;
+}
 
 .section {
 	padding: 20px 0 60px 0;
