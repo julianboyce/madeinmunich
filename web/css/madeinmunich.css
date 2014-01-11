@@ -50,6 +50,18 @@ h1.logo {
 	color: white;
 }
 
+.badge-section, .team-section .heading {
+    text-transform: uppercase;
+}
+
+.badge-special-2 {
+    text-align: center;
+}
+
+.badge-special-1 {
+    width: 200pt
+}
+
 .company-section {
 	background-color: #E5E5E5;
 	color: #303030;
