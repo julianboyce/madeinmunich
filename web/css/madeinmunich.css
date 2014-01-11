@@ -39,6 +39,11 @@ h1.logo {
 	color: white;
 }
 
+.footer-section {
+	background-color: #2FA5F4; 
+	color: white;
+}
+
 .team-profile {
 	text-align: center;
 }
