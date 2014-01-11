@@ -11,10 +11,12 @@
     background-repeat: no-repeat;
 }
 
-
+h1.logo {
+    text-align: center;
+}
 
 .made-basic-font {
-
+    text-align: center;
 }
 
 .logo {
