@@ -18,6 +18,42 @@ h1.logo {
     text-align: center;
 }
 
+
+.section {
+	padding: 20px 0 60px 0;
+}
+
+.badge-section {
+	background-color: #303030; 
+	color: white;
+}
+
+.company-section {
+	background-color: #E5E5E5;
+	color: #303030;
+}
+
+.team-section {
+	background-color: #141414; 
+	color: white;
+}
+
+.team-profile {
+	text-align: center;
+}
+
+.team-profile img {
+	width: 120px;
+}
+
+.company-profile {
+	text-align: center;
+}
+
+.company-profile img {
+	width: 60px;
+}
+
 .logo {
     top: 10px;
     left: 10px;
