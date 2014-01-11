@@ -2,13 +2,23 @@
     display: inline;
 }
 
-.jumbo-market {
+.made-base-1 {
     background-color: #2FA5F4;
 }
 
-.made-basic-font {
-
+.jumbo-market {
+    background-image: url("../img/made-city-logo.png");
+    background-repeat: no-repeat;
 }
+
+h1.logo {
+    text-align: center;
+}
+
+.made-basic-font {
+    text-align: center;
+}
+
 
 .section {
 	padding: 20px 0 60px 0;
@@ -43,4 +53,10 @@
 
 .company-profile img {
 	width: 60px;
+}
+
+.logo {
+    top: 10px;
+    left: 10px;
+    color: #FFFFFF;
 }
