@@ -2,10 +2,23 @@
     display: inline;
 }
 
-.jumbo-market {
+.made-base-1 {
     background-color: #2FA5F4;
 }
 
+.jumbo-market {
+    background-image: url("../img/made-city-logo.png");
+    background-repeat: no-repeat;
+}
+
+
+
 .made-basic-font {
 
+}
+
+.logo {
+    top: 10px;
+    left: 10px;
+    color: #FFFFFF;
 }
