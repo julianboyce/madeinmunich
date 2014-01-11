@@ -62,6 +62,10 @@ h1.logo {
     width: 200pt
 }
 
+.badge-row-space {
+    margin-bottom: 40px;
+}
+
 .company-section {
 	background-color: #E5E5E5;
 	color: #303030;
