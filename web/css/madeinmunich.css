@@ -6,6 +6,10 @@
     background-color: #2FA5F4;
 }
 
+.subheading {
+    text-transform: uppercase;
+}
+
 .jumbo-market {
     background-repeat: no-repeat;
     padding-bottom: 0px;
