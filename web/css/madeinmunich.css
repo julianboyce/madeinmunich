@@ -45,9 +45,14 @@ h1.logo {
 	padding: 20px 0 60px 0;
 }
 
+.marketing-msg {
+    padding-bottom: 34px;
+}
+
 .badge-section {
 	background-color: #545454;
 	color: white;
+    padding-bottom: 45px;
 }
 
 .badge-section, .team-section .heading {
@@ -64,6 +69,11 @@ h1.logo {
 
 .badge-row-space {
     margin-bottom: 40px;
+}
+
+.pay-with-a-tweet {
+    text-align: center;
+    padding-top: 30px;
 }
 
 .company-section {
