@@ -7,8 +7,9 @@
 }
 
 .jumbo-market {
-    background-image: url("../img/made-city-logo.png");
     background-repeat: no-repeat;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
 }
 
 h1.logo {
