@@ -3,58 +3,56 @@ body {
     font-size: 18pt;
 }
 
-.header-logo img {
-    display: inline;
-}
-
-.made-base-1 {
-    background-color: #2FA5F4;
-}
-
-.subheading {
-    text-transform: uppercase;
-}
-
-.jumbo-market {
-    background-repeat: no-repeat;
-    padding-bottom: 0px;
-    margin-bottom: 0px;
-}
-
-h1.logo {
-    text-align: center;
-}
-
-.logo {
-    width: 100%;
-}
-
-.made-basic-font {
-    text-align: center;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 60pt;
-}
-
-.subheading-title {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: bold;
-    font-size: 24pt;
+.row {
+    margin: 0;
 }
 
 .section {
 	padding: 20px 0 40px 0;
 }
 
+.section h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 24pt;
+}
+
 .main-section {
+    color: white;
+    background-color: #2FA5F4;
 	padding: 20px 0 0 0;
+    text-align: center;    
+}
+
+.main-section span {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40pt;
+}
+
+.main-section img {
+    width: 100%;
 }
 
 .header-section {
 	padding: 5px 0 10px 0;
 }
 
-.marketing-msg {
-    padding-bottom: 34px;
+.header-section img {
+    width: 100%;
+}
+
+.badge {
+    padding: 15px;
+    background-color: inherit;    
+    margin-bottom: 10px;
+}
+
+.badge img {
+    border: 1px solid white;
+}
+
+.badge-row {
+    text-align: center;
 }
 
 .badge-section {
@@ -63,20 +61,18 @@ h1.logo {
     padding-bottom: 45px;
 }
 
-.badge-section, .team-section .heading {
-    text-transform: uppercase;
+.badge-section img {
+    max-width: 100%;
 }
 
-.badge-special-2 {
+.badge-section .row {
     text-align: center;
+    margin: 0px;
 }
 
-.badge-special-1 {
-    width: 200pt
-}
-
-.badge-row-space {
-    margin-bottom: 40px;
+.tweet-btn {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20pt;
 }
 
 .pay-with-a-tweet {
@@ -102,7 +98,6 @@ h1.logo {
 
 .social-links a {
 	color: inherit;
-	/*text-decoration: none;*/
 }
 
 .team-profile {
@@ -120,7 +115,6 @@ h1.logo {
 
 .team-profile a {
 	color: inherit;
-	/*text-decoration: none;*/
 }
 
 .company-profile {
@@ -129,10 +123,4 @@ h1.logo {
 
 .company-profile img {
 	width: 60px;
-}
-
-.logo {
-    top: 10px;
-    left: 10px;
-    color: #FFFFFF;
 }
